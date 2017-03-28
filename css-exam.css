@@ -54,6 +54,7 @@ body {
   background: #A9A9A9;
 }
 
+@media (min-width: 600px) {
 .left-column {
   width: 70%;
   float: left;
@@ -63,4 +64,5 @@ body {
   width: 30%;
   float: right;
   margin-right: -30px;
+}
 }
