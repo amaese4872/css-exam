@@ -28,3 +28,13 @@ h3 {
   padding: 10px;
   margin-bottom: 10px;
 }
+
+.more {
+  font-style: normal;
+  border-bottom:solid;
+  margin-bottom: 0;
+}
+
+ul {
+  margin-top: 0;
+}
